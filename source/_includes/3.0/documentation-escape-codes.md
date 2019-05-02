@@ -35,7 +35,7 @@ To erase the scrollback history:
 
     ^[]1337;ClearScrollback^G
 
-#### Set curent directory
+#### Set current directory
 To inform iTerm2 of the current directory to help semantic history:
 
     ^[]1337;CurrentDir=/the/current/directory^G
